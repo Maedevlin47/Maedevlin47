@@ -1,9 +1,8 @@
 Hi 👋
 
-I'm a Software Engineer with 7 years of experience in start-up environments, currently working at an early-stage start-up, developing with JavaScript, React.js, Docker, PostgreSQL, SQL, Semantic UI, TailwindCSS, CSS, and HTML.
+I’m a Solutions and Data Engineer with a background in product, AI-powered tools, and startups. I enjoy using data, technology, and customer insights to solve complex problems and build products that people actually need.
 
-Having worked in both software engineering and business development/sales roles at start-ups ranging from 10 to 1,000 people, I possess valuable insights into user interactions and common challenges faced on platforms. With strong analytical skills and keen attention to detail, I excel at problem-solving and thrive in fast-paced, forward-thinking environments. Collaboration with colleagues and continuous learning are key drivers for me.
-
+My experience spans technical solutions, product development, data, and customer-facing roles, which gives me a practical perspective on how products are built, sold, and used. I’ve worked with Python, SQL, JavaScript, React, APIs, LLMs, and AI tools to build solutions, automate workflows, and turn complex problems into useful products.
 
 Let's Connect!
 - 📫 How to reach me:
